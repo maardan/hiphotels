@@ -1,0 +1,13 @@
+{
+  "name": "Hip Hotels",
+  "version": "0.0.1",
+  "description": "Building a Hotel Search API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mardan Anwar",
+  "dependencies": {
+    "express": "^4.1.2"
+  }
+}
